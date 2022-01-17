@@ -49,7 +49,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Welcome back to the Art Museum</h1>
+      <h1>Welcome back to Art Place!</h1>
 
 
       <form onSubmit={handleSubmit}>
